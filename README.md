@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/user-attachments/assets/404a0e87-cf39-430d-ae46-8a3aad55639c)<div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
@@ -17,7 +17,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="580" src="https://i.postimg.cc/CKnxjBfF/115738951-p0-4.png"  />
+  <img height="580" src="https://i.postimg.cc/vBGCGCyp/115738951-p0-5.png"  />
 </div>
 
 ###
