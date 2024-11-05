@@ -26,7 +26,7 @@
 
 ###
 
-<h3 align="left">Hailing from the vibrant city of Surabaya, Indonesia, I'm a passionate programmer with a foundation built at Universitas Negeri Surabaya. I’m diving into the world of programming with languages like Python, and JavaScript – the tools of choice for solving real-world challenges and bringing ideas to life. With a commitment to growth and innovation, I’m ready to craft code that inspires and transforms.</h3>
+<b1 align="left">Hailing from the vibrant city of Surabaya, Indonesia, I'm a passionate programmer with a foundation built at Universitas Negeri Surabaya. I’m diving into the world of programming with languages like Python, and JavaScript – the tools of choice for solving real-world challenges and bringing ideas to life. With a commitment to growth and innovation, I’m ready to craft code that inspires and transforms.</h3>
 
 ###
 
