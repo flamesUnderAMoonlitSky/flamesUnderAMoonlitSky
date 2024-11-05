@@ -17,7 +17,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="400" src="https://i.postimg.cc/6QY7Ysdb/115738951-p0-3.png"  />
+  <img height="200" src="https://i.postimg.cc/6QY7Ysdb/115738951-p0-3.png"  />
 </div>
 
 ###
